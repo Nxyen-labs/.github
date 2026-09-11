@@ -8,15 +8,11 @@
 [![Menace](https://img.shields.io/badge/Menace%20Level-%F0%9F%98%88%20HEHEHEHEHE-FF3366?style=for-the-badge)](https://github.com/Nxyen-labs)
 [![Vibe Check](https://img.shields.io/badge/Vibe-FAHHH%20%F0%9F%94%A5-FF9671?style=for-the-badge)](https://github.com/Nxyen-labs)
 [![Shared Braincells](https://img.shields.io/badge/Shared%20Braincells-1.5-00C9A7?style=for-the-badge)](https://github.com/Nxyen-labs)
+<br/><br/>
 
-```
-             ▲     ▲
-            / \___/ \
-           (  > 😈 <  )  Ψ   < "HEHEHEHEHEHEHEHE 😈😈😈"
-          / (   🔥  ) \ /    < "WE ARE THE DEVILS OF SIH 2026"
-         (   \     /   )     < "Lock your repos. Hide your scorecards."
-          `---"   "---'      < "FAHHH! DEMONIC CODING ACTIVATED 🔥"
-```
+<img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/devil-mode.gif" width="380" alt="Team RageB8 Demonic Energy" />
+
+<br/>
 
 ### *"5 little devils, 1.5 shared braincells, infinite caffeine, zero mercy, and an ungodly amount of spite. HEHEHEHEHE."* 😈💅🔥
 
