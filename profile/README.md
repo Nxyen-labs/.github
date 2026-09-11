@@ -1,153 +1,151 @@
 <div align="center">
 
-# ⚡ N X Y E N - L A B S ⚡
-### 🚀 Home of **Team RageB8** | Smart India Hackathon (SIH) 2026 🇮🇳
+# 🚨 WELCOME TO NXYEN-LABS 🚨
+### ⚡ powered by **Team RageB8** | SIH 2026 🇮🇳
 
-[![SIH 2026](https://img.shields.io/badge/SIH_2026-Double_Threat-FF6B6B?style=for-the-badge&logo=target&logoColor=white)](https://sih.gov.in/)
-[![Team](https://img.shields.io/badge/Team-RageB8-845EC2?style=for-the-badge&logo=lightning&logoColor=white)](#-the-dream-team--team-rageb8)
-[![Vibe Check](https://img.shields.io/badge/Vibe_Check-FAHH%20%F0%9F%94%A5-FF9671?style=for-the-badge)](https://github.com/Nxyen-labs)
-[![Cook Level](https://img.shields.io/badge/Cook_Level-Michelin%20Star-00C9A7?style=for-the-badge)](https://github.com/Nxyen-labs)
-[![Status](https://img.shields.io/badge/Status-Locked%20In%20%F0%9F%94%92-4D8076?style=for-the-badge)](https://github.com/Nxyen-labs)
+[![SIH 2026](https://img.shields.io/badge/SIH%202026-WE%20ARE%20SO%20BACK-FF007F?style=for-the-badge&logo=fire&logoColor=white)](https://github.com/Nxyen-labs)
+[![Team](https://img.shields.io/badge/Squad-RageB8%20%E2%9A%A1-845EC2?style=for-the-badge)](https://github.com/Nxyen-labs)
+[![Vibe Check](https://img.shields.io/badge/Vibe-FAHHH%20%F0%9F%94%A5-FF9671?style=for-the-badge)](https://github.com/Nxyen-labs)
+[![Shared Braincells](https://img.shields.io/badge/Shared%20Braincells-1.5-00C9A7?style=for-the-badge)](https://github.com/Nxyen-labs)
+[![Cook Meter](https://img.shields.io/badge/Cook%20Meter-100%25%20NO%20CAP-FBEAFF?style=for-the-badge&color=blueviolet)](https://github.com/Nxyen-labs)
 
-<p align="center">
-  <em>"Cooking high-impact deeptech solutions while rage-baiting the status quo. Zero yap, pure engineering, no cap. Fahh."</em> 😤✨
-</p>
+```
+       \   /
+       .-.-.
+     -( o o )-    < "bro who let RageB8 into SIH 2026?? we're so cooked"
+       ) - (      < "NAH WE'D WIN. FAHHH 😤🔥"
+      /     \
+     '._.-._.'
+```
+
+### *"5 girls, 1.5 shared braincells, infinite caffeine, zero filter, and an ungodly amount of spite."* 💅✨
 
 ---
 
 </div>
 
-## 🌌 Who We Are
+## 🌌 The Lore (Who Let Us Cook?)
 
-Welcome to **Nxyen-Labs**, the official command center of **Team RageB8**! We are a squad of 5 passionate builders, researchers, and coders taking on **Smart India Hackathon 2026**. 
+Welcome to **Nxyen-Labs**, the official chaos ground of **Team RageB8**. 
 
-We don't do boring. We blend **hardcore computer vision**, **geospatial intelligence**, and **smart edge hardware** with unmatched Gen-Z chaos and elite engineering rigour. Whether it's detecting toxic refinery gases from a wristband or catching rogue oil-spilling ships from space radar, **we're locked in.** 🔒
+We didn’t choose the hackathon life; the hackathon life chose to get rage-baited by us. We’re an unhinged yet lethal squad of 5 girls heading straight into **Smart India Hackathon (SIH) 2026** to build deeptech, roast each other's commits, and argue about architecture at 3:45 AM while surviving on instant noodles and pure adrenaline.
 
----
-
-## 👥 The Dream Team // Team RageB8
-
-| Operative | Role & Domain | Superpower & Vibe |
-| :--- | :--- | :--- |
-| 👑 **Reya** | **Team Lead & Systems Architect** | Orchestrating chaos into clean commits; runs on coffee & sheer will |
-| ✨ **Roshni** | **AI/ML & Computer Vision Specialist** | Training models that don't hallucinate; feature extractor extraordinaire |
-| 🧠 **D. Sahasra** | **Data & Algorithmic Strategist** | Spatio-temporal wizardry; turns raw telemetry into cold hard evidence |
-| 🔬 **R. Sahasra** | **Sensor Tech & Colorimetry Lead** | Translating chemical reactions to digital signals; pixel perfectionist |
-| 💻 **Vaishnavi** | **Full-Stack & Edge Integrations** | Zero-latency APIs; turning prototype spaghetti into bulletproof pipelines |
-
-> *"5 brains, 2 problem statements, 1 mission. Fahh we're so back."* ⚡
+If you hear intense keyboard clacking mixed with laughing fits and someone screaming **FAHHH**, congratulations—you found the lab. 🧪⚡
 
 ---
 
-## 🎯 SIH 2026 Battlegrounds
-
-We aren't just solving toy problems — we're tackling two mission-critical national challenges with high-stakes industrial and environmental impact.
-
-```
-       ┌─────────────────────────────────────────────────────────────┐
-       │                     NXYEN-LABS @ SIH 2026                   │
-       └──────────────┬───────────────────────────────┬──────────────┘
-                      │                               │
-       ┌──────────────▼──────────────┐ ┌──────────────▼──────────────┐
-       │     PROBLEM ID: #118        │ │      PROBLEM ID: #143       │
-       │  MRPL Toxic Gas Dosimeter   │ │   NTRO Satellite Slick Hunt │
-       │     (Edge AI + Sensors)     │ │     (SAR Earth Obs + AIS)   │
-       └─────────────────────────────┘ └─────────────────────────────┘
-```
-
----
-
-### 🦺 01 // Problem Statement #118
-#### **Mangalore Refinery and Petrochemicals Limited (MRPL)**
-> **Passive Colorimetric $H_2S$ Exposure-Dosimeter Wristband with AI-Based Quantitative Reading**
+## 💅 Meet The Villains // Team RageB8
 
 <div align="center">
 
-```
-  [ Ambient H₂S Gas ] ──> [ Colorimetric Wristband ] ──> [ Phone / Edge Camera ]
-                                                                   │
-                                                                   ▼
-  [ Instant Alert & Dossier ] <── [ Quantitative ppm Readout ] <── [ CV Calibration Engine ]
-```
-
-</div>
-
-* **The Problem**: Hydrogen Sulfide ($H_2S$) in refineries is invisible, corrosive, and lethal even at low concentrations. Conventional electronic detectors are bulky, require battery maintenance, and don't provide continuous cumulative dosage tracking per worker.
-* **Our Solution**: A featherlight, passive colorimetric wristband that alters color progressively upon exposure to $H_2S$. Our custom Computer Vision pipeline normalizes ambient lighting, chromatic shifts, and sensor aging to calculate real-time **quantitative exposure dosages (ppm·hr)** right from a smartphone or edge camera.
-* **The Vibe**: *"We sniff out toxic fumes with computer vision so industrial heroes stay safe on shift. Literally saving lives, no cap."*
-* **Core Stack**: `Computer Vision` • `Colorimetry Calibration` • `Mobile Edge ML` • `OpenCV` • `PyTorch Mobile`
-
----
-
-### 🛰️ 02 // Problem Statement #143
-#### **National Technical Research Organisation (NTRO)**
-> **Leveraging Satellite Imagery to Determine Oil Spills at Sea along with AIS Data Correlations to Identify Vessel Responsible for the Spill**
-
-<div align="center">
-
-```
-  [ Sentinel-1 SAR Radar ] ──> [ Deep Semantic Segmentation ] ──> [ Spill Vector Polygon ]
-                                                                           │
-                                                                           ▼
-  [ CULPRIT IDENTIFIED 🚨 ] <── [ Spatio-Temporal Matcher ] <── [ AIS Vessel Trajectories ]
-```
-
-</div>
-
-* **The Problem**: Rogue vessels purge ballast water and bilge oil illegally into open waters under the cover of clouds or darkness, devastating marine ecosystems and evading local maritime patrols.
-* **Our Solution**: An end-to-end orbital watchtower. We process all-weather, day-and-night Synthetic Aperture Radar (SAR) imagery alongside optical satellite feeds to segment oil slicks. We then correlate the spill’s exact drift physics and timestamp against global Automatic Identification System (AIS) vessel trajectories, mathematically isolating the rogue vessel responsible.
-* **The Vibe**: *"Caught in 4K from low Earth orbit. You dump oil at 03:00 AM? SAR radar sees it, AIS confirms it, court date scheduled."*
-* **Core Stack**: `SAR / Satellite Remote Sensing` • `UNet / DeepLabV3+` • `AIS Telemetry Analytics` • `PostGIS / GeoPandas` • `Drift Modeling`
-
----
-
-## 🛠️ The RageB8 Arsenal
-
-<div align="center">
-
-| Domain | Weaponry & Technologies |
-| :--- | :--- |
-| **Artificial Intelligence** | `PyTorch` `TensorFlow` `OpenCV` `scikit-learn` `YOLOv8` `Segmentation Models` |
-| **Geospatial & Radar** | `Sentinel-1/2 SAR` `GDAL` `GeoPandas` `Rasterio` `PostGIS` `Shapely` |
-| **Edge & Embedded** | `ONNX Runtime` `TensorRT` `Raspberry Pi` `Android NDK` `Color Science (CIE-Lab)` |
-| **Backend & Pipeline** | `FastAPI` `Docker` `Celery` `Redis` `PostgreSQL` `Kafka` |
-| **Team Fuel** | `Instant Ramen` `Midnight Playlists` `Overclocked GPUs` `Infinite Fahh Energy` |
+| Operative | Archetype | The Lore & Daily Shenanigans |
+| :---: | :---: | :--- |
+| 🗣️☕ | **Reya**<br/>`The Yapper & Chill Captain` | Will yap for 45 uninterrupted business minutes explaining why the system architecture should look like a galaxy, then say *"anyway it is what it is"* and take a 2-hour nap. Completely unbothered, moisturized, in her lane, leading the team through immaculate vibes. |
+| ✨💅 | **Roshni**<br/>`The Cool & Cute One` | Effortlessly cool, dangerously cute, writes code that looks aesthetic as hell. Will smile sweetly at you while your git branch is actively burning to the ground. Zero panic, 100% aura. |
+| 🕵️‍♀️📚 | **D. Sahasra**<br/>`The Deep-Dive Scholar` | *"Wait guys, let me read 47 research papers first."* Down 14 Wikipedia rabbit holes on satellite radar at 3:17 AM. Finds bugs that were written in 1998 and knows the ancient lore of every single API. |
+| 🎨💋 | **R. Sahasra**<br/>`The Creative Diva` | High fashion, higher standards. If the UI, color palette, or sensor gradient isn't slaying, it is NOT getting deployed. Brings the vision and artistic perfection. *"It works? Cool, now make it iconic."* |
+| 🗿📋 | **Vaish**<br/>`The Serious Adult in the Room` | The ONLY person preventing this team from accidentally dropping the database. Strictly business, zero tolerance for silliness. *"GUYS STOP LAUGHING THE DEADLINE IS IN 15 MINUTES PUSH THE CODE."* Stress level: 📈. Productivity: 🗿. |
 
 </div>
 
 ---
 
-## 📊 The RageB8 Vibe Matrix
+## ⚔️ THE BATTLES WE ARE FIGHTING (SIH 2026)
+
+We skipped the boring corporate slide decks. Here are the real turf wars we're waging:
+
+```
+                      SIH 2026 HIT LIST
+                     ┌──────────────────┐
+                     │   TEAM RAGEB8    │
+                     └──┬────────────┬──┘
+                        │            │
+       ┌────────────────▼──┐      ┌──▼────────────────┐
+       │   BATTLE 01: #118 │      │   BATTLE 02: #143 │
+       │   THE STINK HUNT  │      │   SPACE SNITCH    │
+       │   (MRPL vs H₂S)   │      │   (NTRO vs SHIPS) │
+       └───────────────────┘      └───────────────────┘
+```
+
+---
+
+### 🥊 BATTLE 01: The Toxic Stink Hunter (#118 - MRPL)
+> **The Enemy**: Lethal $H_2S$ gas sneaking around refinery workers like an invisible ninja.
+
+* **The Beef**: Hydrogen Sulfide is invisible, smells like rotten eggs, and is literally toxic. Existing detectors are giant clunky bricks with dead batteries. Major L.
+* **Our Retaliation**: A cute, passive colorimetric wristband that changes color the second toxic fumes show up, paired with our CV phone scanner that reads your dosage instantly.
+* **Live Recreation**:
+  ```
+  Toxic H₂S Gas: *sneaks up silently trying to poison the plant*
+  Our Wristband: "I don't think so, sweetie." 💅 *changes color instantly*
+  Our AI Scanner: *flashes camera* "CAUGHT IN 4K. DOSAGE: 18.4 PPM. EVACUATE NOW BRO."
+  ```
+* **Status**: Gas thought it was stealthy. Massive FAHH moment for $H_2S$. 😤
+
+---
+
+### 🛰️ BATTLE 02: Space Satellite Snitch-Engine (#143 - NTRO)
+> **The Enemy**: Shady cargo ships dumping toxic oil into the ocean at 2 AM thinking nobody sees them.
+
+* **The Beef**: Rogue captains dumping bilge oil in the open sea under cloud cover like the ocean is their personal trash can. Dolphins are crying. Unacceptable behavior.
+* **Our Retaliation**: We literally recruited radar satellites in outer space to see through clouds & darkness, outline the slick, and cross-reference vessel GPS (AIS) coordinates.
+* **Live Recreation**:
+  ```
+  Rogue Vessel: "Hehe it's pitch black and foggy, nobody can see me dump this oil 😈"
+  Our Radar Satellite (700km in orbit): 👁️👄👁️ "I see you twin."
+  Our AIS Matcher: "Bro... you were the ONLY vessel at coordinates (14.2°N, 71.8°E)
+                   at 02:14 AM doing 12 knots. Don't play dumb."
+  ```
+* **Status**: Caught red-handed. Court summons speedrun any% real. 🚢⚖️
+
+---
+
+## 📈 RageB8 Daily Telemetry
+
+```
+[===========================>        ] 78% Caffeine Saturation
+[====================================] 100% FAHH Energy
+[=>                                  ] 3% Patience with Git Merge Conflicts
+[====================================] 100% Determination to Cook
+```
 
 ```yaml
-team_attributes:
-  name: "RageB8"
-  organization: "Nxyen-Labs"
-  hackathon: "Smart India Hackathon 2026"
-  target_solutions: [118, 143]
-  coffee_to_code_ratio: "1:∞"
-  hallucination_frequency: "0.00%"
-  git_blame_tolerance: "We fix it in prod (responsibly)"
-  fahh_meter: "MAX_VALUE"
+lab_status:
+  current_objective: "Win SIH 2026 or cause maximum chaos trying"
+  coffee_consumed: "Yes"
+  reya_yapping_count: "48,219 words today"
+  roshni_chill_aura: "Immaculate"
+  d_sahasra_open_tabs: 213
+  r_sahasra_aesthetic_rating: "10/10 diva approved"
+  vaish_yelling_at_us: "Every 8 minutes"
 ```
-
-* 🎯 **Zero Fluff**: We build deployable, benchmarked prototypes that work under field conditions.
-* ⚡ **Full-Stack Agility**: From orbital satellites to chemical wrists, we traverse the entire hardware-software spectrum.
-* 🤝 **RageB8 Synergy**: We turn midnight bug bakes into hackathon-winning solutions.
 
 ---
 
-## 📬 Connect With The Lab
+## 📬 Slide Into Our Repos
 
-Got questions, collabs, or just want to witness the cooking in real time?
+Got feedback, want to sponsor our energy drink budget, or just want to watch us cook?
 
-- 🐙 **GitHub**: [@Nxyen-labs](https://github.com/Nxyen-labs)
-- 🚀 **Initiative**: Smart India Hackathon 2026
+- 🐙 **GitHub Org**: [@Nxyen-labs](https://github.com/Nxyen-labs)
+- 🚀 **Mission**: Smart India Hackathon 2026
 
 <div align="center">
 
-Made with 💜, chaos, and precision engineering by **Team RageB8**
 <br/>
-<sub>© 2026 Nxyen-Labs. All rights reserved. Let them cook. 🍳</sub>
+
+```
+       _____                      _____             _      ___ 
+      |  __ \                    |  _  \           | |    / _ \
+      | |__) |__ _  __ _  ___    | |_) |  ___  __ _| |_  | (_) |
+      |  _  // _` |/ _` |/ _ \   |  _ <  / _ \/ _` | __|  > _ < 
+      | | \ \ (_| | (_| |  __/   | |_) ||  __/ (_| | |_  | (_) |
+      |_|  \_\__,_|\__, |\___|   |____/  \___|\__,_|\__|  \___/ 
+                    __/ |                                       
+                   |___/                                        
+```
+
+**Built with chaos, laughs, and pure engineering madness by Team RageB8.**
+<br/>
+<sub>FAHHH! LET US COOK. 🍳🔥</sub>
 
 </div>
