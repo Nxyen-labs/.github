@@ -3,34 +3,36 @@
 # 🚨 WELCOME TO NXYEN-LABS 🚨
 ### ⚡ powered by **Team RageB8** | SIH 2026 🇮🇳
 
-[![SIH 2026](https://img.shields.io/badge/SIH%202026-WE%20ARE%20SO%20BACK-FF007F?style=for-the-badge&logo=fire&logoColor=white)](https://github.com/Nxyen-labs)
+[![SIH 2026](https://img.shields.io/badge/SIH%202026-DEVIL%20HOURS-FF007F?style=for-the-badge&logo=fire&logoColor=white)](https://github.com/Nxyen-labs)
 [![Team](https://img.shields.io/badge/Squad-RageB8%20%E2%9A%A1-845EC2?style=for-the-badge)](https://github.com/Nxyen-labs)
+[![Menace](https://img.shields.io/badge/Menace%20Level-%F0%9F%98%88%20HEHEHEHEHE-FF3366?style=for-the-badge)](https://github.com/Nxyen-labs)
 [![Vibe Check](https://img.shields.io/badge/Vibe-FAHHH%20%F0%9F%94%A5-FF9671?style=for-the-badge)](https://github.com/Nxyen-labs)
 [![Shared Braincells](https://img.shields.io/badge/Shared%20Braincells-1.5-00C9A7?style=for-the-badge)](https://github.com/Nxyen-labs)
-[![Cook Meter](https://img.shields.io/badge/Cook%20Meter-100%25%20NO%20CAP-FBEAFF?style=for-the-badge&color=blueviolet)](https://github.com/Nxyen-labs)
 
 ```
-       \   /
-       .-.-.
-     -( o o )-    < "bro who let RageB8 into SIH 2026?? we're so cooked"
-       ) - (      < "NAH WE'D WIN. FAHHH 😤🔥"
-      /     \
-     '._.-._.'
+             ▲     ▲
+            / \___/ \
+           (  > 😈 <  )  Ψ   < "HEHEHEHEHEHEHEHE 😈😈😈"
+          / (   🔥  ) \ /    < "WE ARE THE DEVILS OF SIH 2026"
+         (   \     /   )     < "Lock your repos. Hide your scorecards."
+          `---"   "---'      < "FAHHH! DEMONIC CODING ACTIVATED 🔥"
 ```
 
-### *"5 girls, 1.5 shared braincells, infinite caffeine, zero filter, and an ungodly amount of spite."* 💅✨
+### *"5 little devils, 1.5 shared braincells, infinite caffeine, zero mercy, and an ungodly amount of spite. HEHEHEHEHE."* 😈💅🔥
 
 ---
 
 </div>
 
-## 🌌 The Lore (Who Let Us Cook?)
+## 🌌 The Lore (Who Let The Devils Cook?)
 
-Welcome to **Nxyen-Labs**, the official chaos ground of **Team RageB8**. 
+Welcome to **Nxyen-Labs**, the official underworld and chaos lab of **Team RageB8**. 
 
-We didn’t choose the hackathon life; the hackathon life chose to get rage-baited by us. We’re an unhinged yet lethal squad of 5 girls heading straight into **Smart India Hackathon (SIH) 2026** to build deeptech, roast each other's commits, and argue about architecture at 3:45 AM while surviving on instant noodles and pure adrenaline.
+You thought this was just another quiet hackathon team? Wrong. We are the 5 little devils of **Smart India Hackathon (SIH) 2026**, here to terrorize problem statements, code circles around everyone, and laugh hysterically at 4 AM while surviving on spicy ramen, caffeine, and pure spite. 
 
-If you hear intense keyboard clacking mixed with laughing fits and someone screaming **FAHHH**, congratulations—you found the lab. 🧪⚡
+**HEHEHEHEHEHEHE.** 😈
+
+If you hear mischievous giggling, furious typing, and someone screaming **FAHHH** across the hall, congratulations—the devils are cooking. 🧪⚡
 
 ---
 
@@ -44,7 +46,7 @@ If you hear intense keyboard clacking mixed with laughing fits and someone screa
 | ✨💅 | **Roshni**<br/>`The Cool & Cute One` | Effortlessly cool, dangerously cute, writes code that looks aesthetic as hell. Will smile sweetly at you while your git branch is actively burning to the ground. Zero panic, 100% aura. |
 | 🕵️‍♀️📚 | **D. Sahasra**<br/>`The Deep-Dive Scholar` | *"Wait guys, let me read 47 research papers first."* Down 14 Wikipedia rabbit holes on satellite radar at 3:17 AM. Finds bugs that were written in 1998 and knows the ancient lore of every single API. |
 | 🎨💋 | **R. Sahasra**<br/>`The Creative Diva` | High fashion, higher standards. If the UI, color palette, or sensor gradient isn't slaying, it is NOT getting deployed. Brings the vision and artistic perfection. *"It works? Cool, now make it iconic."* |
-| 🗿📋 | **Vaish**<br/>`The Serious Adult in the Room` | The ONLY person preventing this team from accidentally dropping the database. Strictly business, zero tolerance for silliness. *"GUYS STOP LAUGHING THE DEADLINE IS IN 15 MINUTES PUSH THE CODE."* Stress level: 📈. Productivity: 🗿. |
+| 🗿📋 | **Vaishnavi**<br/>`The Serious Adult in the Room` | The ONLY person preventing this team from accidentally dropping the database. Strictly business, zero tolerance for silliness. *"GUYS STOP LAUGHING THE DEADLINE IS IN 15 MINUTES PUSH THE CODE."* Stress level: 📈. Productivity: 🗿. |
 
 </div>
 
@@ -117,7 +119,7 @@ lab_status:
   roshni_chill_aura: "Immaculate"
   d_sahasra_open_tabs: 213
   r_sahasra_aesthetic_rating: "10/10 diva approved"
-  vaish_yelling_at_us: "Every 8 minutes"
+  vaishnavi_yelling_at_us: "Every 8 minutes"
 ```
 
 ---
