@@ -101,6 +101,12 @@ We’re 5 little devils invading **Smart India Hackathon (SIH) 2026** to terrori
   ```
 * **Status**: Caught red-handed. Court summons speedrun any% real. 🚢⚖️
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/leo-pointing.gif" width="260" alt="Leo Pointing Meme" />
+  <br/>
+  <sub><em>Our AIS satellite tracker the exact millisecond the culprit ship matches the spill trajectory 🫵🚨</em></sub>
+</div>
+
 ---
 
 ## 📈 RageB8 Telemetry
