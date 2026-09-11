@@ -8,13 +8,14 @@
 [![Menace](https://img.shields.io/badge/Menace%20Level-%F0%9F%98%88%20HEHEHEHEHE-FF3366?style=for-the-badge)](https://github.com/Nxyen-labs)
 [![Vibe Check](https://img.shields.io/badge/Vibe-FAHHH%20%F0%9F%94%A5-FF9671?style=for-the-badge)](https://github.com/Nxyen-labs)
 [![Shared Braincells](https://img.shields.io/badge/Shared%20Braincells-1.5-00C9A7?style=for-the-badge)](https://github.com/Nxyen-labs)
+
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/devil-mode.gif" width="380" alt="Team RageB8 Demonic Energy" />
+<img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/devil-mode.gif" width="340" alt="Team RageB8 Demonic Energy" />
 
 <br/>
 
-### *"5 little devils, 1.5 shared braincells, infinite caffeine, zero mercy, and an ungodly amount of spite. HEHEHEHEHE."* 😈💅🔥
+### *"5 little devils, 1.5 shared braincells, infinite caffeine, zero mercy, and pure spite. HEHEHEHEHE."* 😈💅🔥
 
 ---
 
@@ -22,13 +23,11 @@
 
 ## 🌌 The Lore (Who Let The Devils Cook?)
 
-Welcome to **Nxyen-Labs**, the official underworld and chaos lab of **Team RageB8**. 
+Welcome to **Nxyen-Labs**, the official chaos lab of **Team RageB8**! 😈
 
-You thought this was just another quiet hackathon team? Wrong. We are the 5 little devils of **Smart India Hackathon (SIH) 2026**, here to terrorize problem statements, code circles around everyone, and laugh hysterically at 4 AM while surviving on spicy ramen, caffeine, and pure spite. 
+We’re 5 little devils invading **Smart India Hackathon (SIH) 2026** to terrorize problem statements, code circles around everyone, and laugh maniacally at 4 AM on instant noodles, coffee, and sheer spite.
 
-**HEHEHEHEHEHEHE.** 😈
-
-If you hear mischievous giggling, furious typing, and someone screaming **FAHHH** across the hall, congratulations—the devils are cooking. 🧪⚡
+**HEHEHEHEHEHEHE.** If you hear mischievous giggling and someone screaming **FAHHH** across the building, the devils are cooking. 🧪⚡
 
 ---
 
@@ -36,27 +35,25 @@ If you hear mischievous giggling, furious typing, and someone screaming **FAHHH*
 
 <div align="center">
 
-| Operative | Archetype | The Lore & Daily Shenanigans |
-| :---: | :---: | :--- |
-| 🗣️☕ | **Reya**<br/>`The Yapper & Chill Captain` | Will yap for 45 uninterrupted business minutes explaining why the system architecture should look like a galaxy, then say *"anyway it is what it is"* and take a 2-hour nap. Completely unbothered, moisturized, in her lane, leading the team through immaculate vibes. |
-| ✨💅 | **Roshni**<br/>`The Cool & Cute One` | Effortlessly cool, dangerously cute, writes code that looks aesthetic as hell. Will smile sweetly at you while your git branch is actively burning to the ground. Zero panic, 100% aura. |
-| 🕵️‍♀️📚 | **D. Sahasra**<br/>`The Deep-Dive Scholar` | *"Wait guys, let me read 47 research papers first."* Down 14 Wikipedia rabbit holes on satellite radar at 3:17 AM. Finds bugs that were written in 1998 and knows the ancient lore of every single API. |
-| 🎨💋 | **R. Sahasra**<br/>`The Creative Diva` | High fashion, higher standards. If the UI, color palette, or sensor gradient isn't slaying, it is NOT getting deployed. Brings the vision and artistic perfection. *"It works? Cool, now make it iconic."* |
-| 🗿📋 | **Vaishnavi**<br/>`The Serious Adult in the Room` | The ONLY person preventing this team from accidentally dropping the database. Strictly business, zero tolerance for silliness. *"GUYS STOP LAUGHING THE DEADLINE IS IN 15 MINUTES PUSH THE CODE."* Stress level: 📈. Productivity: 🗿. |
+| Operative | Vibe & Daily Shenanigans | Meme Energy |
+| :--- | :--- | :---: |
+| 🗣️☕ **Reya**<br/>`The Yapper & Chill Captain` | Yaps for 45 uninterrupted minutes about architecture, then takes a 2-hour nap. Unbothered, moisturized, in her lane. | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-reya.gif" width="130" alt="Reya Meme" /> |
+| ✨💅 **Roshni**<br/>`The Cool & Cute One` | Aesthetic code, 100% aura. Smiles sweetly while the entire cloud server is actively burning down. | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-roshni.gif" width="130" alt="Roshni Meme" /> |
+| 🕵️‍♀️📚 **D. Sahasra**<br/>`The Deep-Dive Scholar` | Down 14 Wikipedia rabbit holes at 3 AM. Knows the ancient lore of every single API and algorithm. | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-d-sahasra.gif" width="130" alt="D. Sahasra Meme" /> |
+| 🎨💋 **R. Sahasra**<br/>`The Creative Diva` | High fashion, higher standards. If the UI or sensor gradient doesn't slay, it does NOT deploy. *"Make it iconic."* | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-r-sahasra.gif" width="130" alt="R. Sahasra Meme" /> |
+| 🗿📋 **Vaishnavi**<br/>`The Serious Adult in the Room` | Zero tolerance for foolishness. *"GUYS STOP LAUGHING THE DEADLINE IS IN 10 MINUTES PUSH THE CODE."* Stress: 📈 | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-vaishnavi.gif" width="130" alt="Vaishnavi Meme" /> |
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/cat-typing.gif" width="280" alt="Team RageB8 coding at 3 AM" />
+<img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/cat-typing.gif" width="260" alt="Team RageB8 coding at 3 AM" />
 <br/>
-<sub><em>Actual live feed of Team RageB8 coding at 3:45 AM while Vaishnavi counts down the deadline ⌨️💨</em></sub>
+<sub><em>Live feed of Team RageB8 coding at 3:45 AM while Vaishnavi counts down the deadline ⌨️💨</em></sub>
 
 </div>
 
 ---
 
 ## ⚔️ THE BATTLES WE ARE FIGHTING (SIH 2026)
-
-We skipped the boring corporate slide decks. Here are the real turf wars we're waging:
 
 ```
                       SIH 2026 HIT LIST
@@ -74,10 +71,8 @@ We skipped the boring corporate slide decks. Here are the real turf wars we're w
 ---
 
 ### 🥊 BATTLE 01: The Toxic Stink Hunter (#118 - MRPL)
-> **The Enemy**: Lethal $H_2S$ gas sneaking around refinery workers like an invisible ninja.
-
-* **The Beef**: Hydrogen Sulfide is invisible, smells like rotten eggs, and is literally toxic. Existing detectors are giant clunky bricks with dead batteries. Major L.
-* **Our Retaliation**: A cute, passive colorimetric wristband that changes color the second toxic fumes show up, paired with our CV phone scanner that reads your dosage instantly.
+* **The Enemy**: Lethal $H_2S$ gas sneaking around refinery workers like an invisible ninja.
+* **Our Retaliation**: Cute passive colorimetric wristband + AI phone camera scanner = instant quantitative dosage.
 * **Live Recreation**:
   ```
   Toxic H₂S Gas: *sneaks up silently trying to poison the plant*
@@ -95,10 +90,8 @@ We skipped the boring corporate slide decks. Here are the real turf wars we're w
 ---
 
 ### 🛰️ BATTLE 02: Space Satellite Snitch-Engine (#143 - NTRO)
-> **The Enemy**: Shady cargo ships dumping toxic oil into the ocean at 2 AM thinking nobody sees them.
-
-* **The Beef**: Rogue captains dumping bilge oil in the open sea under cloud cover like the ocean is their personal trash can. Dolphins are crying. Unacceptable behavior.
-* **Our Retaliation**: We literally recruited radar satellites in outer space to see through clouds & darkness, outline the slick, and cross-reference vessel GPS (AIS) coordinates.
+* **The Enemy**: Shady cargo ships dumping toxic bilge oil in the open ocean at 2 AM.
+* **Our Retaliation**: Low-Earth orbit radar satellites (SAR) + AIS vessel GPS trajectory correlation.
 * **Live Recreation**:
   ```
   Rogue Vessel: "Hehe it's pitch black and foggy, nobody can see me dump this oil 😈"
@@ -110,14 +103,7 @@ We skipped the boring corporate slide decks. Here are the real turf wars we're w
 
 ---
 
-## 📈 RageB8 Daily Telemetry
-
-```
-[===========================>        ] 78% Caffeine Saturation
-[====================================] 100% FAHH Energy
-[=>                                  ] 3% Patience with Git Merge Conflicts
-[====================================] 100% Determination to Cook
-```
+## 📈 RageB8 Telemetry
 
 ```yaml
 lab_status:
@@ -153,7 +139,7 @@ Got feedback, want to sponsor our energy drink budget, or just want to watch us 
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/let-him-cook.gif" width="260" alt="Let Them Cook" />
+<img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/let-him-cook.gif" width="240" alt="Let Them Cook" />
 
 <br/><br/>
 
