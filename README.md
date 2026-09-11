@@ -44,6 +44,12 @@ If you hear mischievous giggling, furious typing, and someone screaming **FAHHH*
 | 🎨💋 | **R. Sahasra**<br/>`The Creative Diva` | High fashion, higher standards. If the UI, color palette, or sensor gradient isn't slaying, it is NOT getting deployed. Brings the vision and artistic perfection. *"It works? Cool, now make it iconic."* |
 | 🗿📋 | **Vaishnavi**<br/>`The Serious Adult in the Room` | The ONLY person preventing this team from accidentally dropping the database. Strictly business, zero tolerance for silliness. *"GUYS STOP LAUGHING THE DEADLINE IS IN 15 MINUTES PUSH THE CODE."* Stress level: 📈. Productivity: 🗿. |
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/cat-typing.gif" width="280" alt="Team RageB8 coding at 3 AM" />
+<br/>
+<sub><em>Actual live feed of Team RageB8 coding at 3:45 AM while Vaishnavi counts down the deadline ⌨️💨</em></sub>
+
 </div>
 
 ---
@@ -79,6 +85,12 @@ We skipped the boring corporate slide decks. Here are the real turf wars we're w
   Our AI Scanner: *flashes camera* "CAUGHT IN 4K. DOSAGE: 18.4 PPM. EVACUATE NOW BRO."
   ```
 * **Status**: Gas thought it was stealthy. Massive FAHH moment for $H_2S$. 😤
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/side-eye.gif" width="240" alt="Toxic Gas Side Eye" />
+  <br/>
+  <sub><em>Toxic H₂S gas realizing our colorimetric wristband just clocked its exact ppm 👁️👄👁️</em></sub>
+</div>
 
 ---
 
@@ -138,6 +150,12 @@ Got feedback, want to sponsor our energy drink budget, or just want to watch us 
  / _, _/ ___ / /_/ / /___/ /_/ / /_/ / 
 /_/ |_/_/  |_\____/_____/_____/\____/  
 ```
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/let-him-cook.gif" width="260" alt="Let Them Cook" />
+
+<br/><br/>
 
 **Built with chaos, laughs, and pure engineering madness by Team RageB8.**
 <br/>
