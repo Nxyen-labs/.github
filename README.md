@@ -37,17 +37,17 @@ We’re 5 little devils invading **Smart India Hackathon (SIH) 2026** to terrori
 
 | Operative | Vibe & Daily Shenanigans | Meme Energy |
 | :--- | :--- | :---: |
-| 🗣️☕ **Reya**<br/>`The Yapper & Chill Captain` | Yaps for 45 uninterrupted minutes about architecture, then takes a 2-hour nap. Unbothered, moisturized, in her lane. | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-reya.gif" width="130" alt="Reya Meme" /> |
-| ✨💅 **Roshni**<br/>`The Cool & Cute One` | Aesthetic code, 100% aura. Smiles sweetly while the entire cloud server is actively burning down. | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-roshni.gif" width="130" alt="Roshni Meme" /> |
-| 🕵️‍♀️📚 **D. Sahasra**<br/>`The Deep-Dive Scholar` | Down 14 Wikipedia rabbit holes at 3 AM. Knows the ancient lore of every single API and algorithm. | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-d-sahasra.gif" width="130" alt="D. Sahasra Meme" /> |
-| 🎨💋 **R. Sahasra**<br/>`The Creative Diva` | High fashion, higher standards. If the UI or sensor gradient doesn't slay, it does NOT deploy. *"Make it iconic."* | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-r-sahasra.gif" width="130" alt="R. Sahasra Meme" /> |
-| 🗿📋 **Vaishnavi**<br/>`The Serious Adult in the Room` | Zero tolerance for foolishness. *"GUYS STOP LAUGHING THE DEADLINE IS IN 10 MINUTES PUSH THE CODE."* Stress: 📈 | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-vaishnavi.gif" width="130" alt="Vaishnavi Meme" /> |
+| 🗣️☕ **Reya Doshi**<br/>`The Yapper & Chill Captain` | Yaps for 45 uninterrupted minutes about architecture, then takes a 2-hour nap. Unbothered, moisturized, in her lane. | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-reya.gif" width="130" alt="Reya Meme" /> |
+| ✨💅 **Roshni Chintamani**<br/>`The Cool & Cute One` | Aesthetic code, 100% aura. Smiles sweetly while the entire cloud server is actively burning down. | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-roshni.gif" width="130" alt="Roshni Meme" /> |
+| 🕵️‍♀️📚 **Danda Sahasra**<br/>`The Fact-Checking Scholar` | Needs every fact, stat, and paper verified before writing a single line. Zero assumptions, 100% cited sources. | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-d-sahasra.gif" width="130" alt="Danda Sahasra Meme" /> |
+| 🎨💋 **Rangu Sahasra**<br/>`The Creative Diva` | High fashion, higher standards. If the UI or sensor gradient doesn't slay, it does NOT deploy. *"Make it iconic."* | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-r-sahasra.gif" width="130" alt="Rangu Sahasra Meme" /> |
+| 🗿📋 **Vaishnavi Patil**<br/>`The Serious Adult in the Room` | Zero tolerance for foolishness. *"GUYS STOP LAUGHING THE DEADLINE IS IN 10 MINUTES PUSH THE CODE."* Stress: 📈 | <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/member-vaishnavi.gif" width="130" alt="Vaishnavi Meme" /> |
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/Nxyen-labs/.github/main/assets/cat-typing.gif" width="260" alt="Team RageB8 coding at 3 AM" />
 <br/>
-<sub><em>Live feed of Team RageB8 coding at 3:45 AM while Vaishnavi counts down the deadline ⌨️💨</em></sub>
+<sub><em>Live feed of Team RageB8 coding at 3:45 AM while Vaishnavi Patil counts down the deadline ⌨️💨</em></sub>
 
 </div>
 
@@ -115,11 +115,11 @@ We’re 5 little devils invading **Smart India Hackathon (SIH) 2026** to terrori
 lab_status:
   current_objective: "Win SIH 2026 or cause maximum chaos trying"
   coffee_consumed: "Yes"
-  reya_yapping_count: "48,219 words today"
-  roshni_chill_aura: "Immaculate"
-  d_sahasra_open_tabs: 213
-  r_sahasra_aesthetic_rating: "10/10 diva approved"
-  vaishnavi_yelling_at_us: "Every 8 minutes"
+  reya_doshi_yapping_count: "48,219 words today"
+  roshni_chintamani_chill_aura: "Immaculate"
+  danda_sahasra_facts_verified: "100% (sources cited)"
+  rangu_sahasra_aesthetic_rating: "10/10 diva approved"
+  vaishnavi_patil_yelling_at_us: "Every 8 minutes"
 ```
 
 ---
